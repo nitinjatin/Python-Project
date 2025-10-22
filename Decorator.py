@@ -6,7 +6,7 @@ def deco_datatype(func):
         return result
     return wrap
 
-
+#comment
 
 @deco_datatype
 def input_number(x):
