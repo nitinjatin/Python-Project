@@ -1,0 +1,15 @@
+[Log Level Counts]
+- INFO: 7
+- WARNING: 2
+- DEBUG: 2
+- ERROR: 2
+
+[Python Error Counts]
+- FileNotFoundError: 1
+- requests.exceptions.ReadTimeout: 1
+
+[Files Processed]
+- data/input_02.csv
+- data/input_03.csv
+- data/input_01.csv
+Python
